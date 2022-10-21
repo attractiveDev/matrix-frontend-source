@@ -1,0 +1,50 @@
+.roadmap-title{
+  font-size: 2.3rem !important;
+  font-family: "IBM Plex Sans" !important;
+  font-weight: 600 !important;
+  color: #0062ff !important;
+  line-height: 1.770833rem !important;
+}
+
+.roadmap-text{
+  font-size: 1.75rem !important;
+  font-family: "IBM Plex Sans" !important;
+  font-weight: 600 !important;
+  color: #fff !important;
+  line-height: 1.770833rem !important;
+  margin: 0.533333rem auto 0.833333rem !important;
+}
+
+.road-content{
+  font-size: 1rem !important;
+  font-family: "IBM Plex Sans" !important;
+  font-weight: 400 !important;
+  color: #808ab8 !important;
+  line-height: 1.770833rem !important;
+  margin-bottom: 0.520833rem !important;
+}
+
+.vertical-timeline-element .vertical-timeline-element-content-box {
+    padding: 1em;
+    border-radius: 0.25em;
+    border: 4px solid transparent !important;
+}
+
+
+.custom{
+  border: none !important;
+}
+
+.infinity-logo{
+  width: 80px;
+  position: absolute;
+  left: -10px;
+  top: 10px;
+}
+
+@media screen and (max-width: 1169px) {
+  .infinity-logo{
+    width: 60px;
+    top: 7px;
+  }
+}

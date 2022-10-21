@@ -1,0 +1,22 @@
+:root{
+  --primary:#111325;
+  --secondary:rgba(0, 0, 0, 0.9);
+  --accordion: #161936;
+  --text-primary:white;
+  --text-secondary:#808ab8;
+}
+
+body{
+  margin: 0px;
+  background-color: var(--primary);
+}
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans';
+  transition: all .5s;
+}

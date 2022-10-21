@@ -1,0 +1,40 @@
+
+.header-container{
+  background: var(--secondary);
+  width: 100%;
+}
+
+.header-main{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 95%;
+  margin: 0 auto;
+}
+.menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 80%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.logo{
+  width: 80px;
+  height: 50px;
+}
+.logo-text{
+  height: 0.78125rem;
+}
+
+.menu a{
+  color: white;
+  font-weight: 600;
+  line-height: 1.14rem;
+  border-radius: 3px;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.menu a:hover{
+  background-color: #0062ff;
+}

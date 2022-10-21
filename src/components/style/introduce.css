@@ -1,0 +1,26 @@
+.intr-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+.intr-row .intr-title{
+  font-size: 1.666667rem;
+  font-family: "IBMPlexSans-SemiBold,IBMPlexSans";
+  font-weight: 600;
+  color: #e5ecf4;
+  line-height: 2.083333rem;
+  max-width: 500px;
+}
+
+.intr-content{
+  font-size: 1.041667rem;
+  font-family: Heebo-Regular,Heebo;
+  font-weight: 400;
+  color: #808ab8;
+  line-height: 1.5625rem;
+  max-width: 500px;
+}
+.section-img{
+  width: 50%;
+}

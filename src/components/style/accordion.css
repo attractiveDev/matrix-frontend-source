@@ -1,0 +1,43 @@
+.details{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rect{
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.rect .ratio{
+  font-size: 18px;
+  color: #767993;
+  text-align: center;
+}
+
+.font-style-1{
+  font-size: 26px;
+  font-weight: 600;
+  color: #0c9670;
+}
+.font-style-2{
+  font-size: 18px;
+  color: #4d5073;
+}
+.ether-amount{
+  color: #e7e7ec;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.eth{
+  font-size: 14px;
+  color: white;
+  opacity: 0.8;
+}
+.sold{
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
